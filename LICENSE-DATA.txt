@@ -1,0 +1,7 @@
+Vehicle Makes and Models dataset attribution
+
+Project: https://github.com/gor3a/vehicle-makes-models
+Upstream source for make/model/generation/engine facts: https://autoevolution.com/
+License: Open Database License (ODbL) v1.0 — https://opendatacommons.org/licenses/odbl/1-0/
+Adaptation: transformed to a compact make → model → engine-label JSON catalog for WRAKY.COM; adapted catalog is offered in vehicle-catalog.json under ODbL 1.0.
+See upstream LICENSE-DATA for the full attribution and share-alike terms.
